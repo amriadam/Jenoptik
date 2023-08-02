@@ -36,5 +36,6 @@ This application depends on the following Qt components:
 ![Screenshot of the application](./laserApp.PNG)
 ![Screenshot of the application](./Capture2.PNG)
 ![Screenshot of the application](./Capture3.PNG)
+![Screenshot of the application](./dialog1.PNG)
 
 
