@@ -1,0 +1,54 @@
+<RCC>
+    <qresource prefix="/Main">
+        <file>../qml/assets/logo.png</file>
+        <file>../qml/assets/line.png</file>
+        <file>../qml/assets/rectangle.png</file>
+        <file>../qml/assets/circle.png</file>
+        <file>../qml/assets/polygone.png</file>
+        <file>../qml/assets/text.png</file>
+        <file>../qml/assets/more.png</file>
+        <file>../qml/assets/playIcon.png</file>
+        <file>../qml/assets/pauseIcon.png</file>
+        <file>../qml/assets/stopIcon.png</file>
+        <file>../qml/assets/importIcon.png</file>
+        <file>../qml/assets/zoomIn.png</file>
+        <file>../qml/assets/zoomOut.png</file>
+        <file>../qml/assets/2D.png</file>
+        <file>../qml/assets/3D.png</file>
+        <file>../qml/components/CanvasDrawingArea.qml</file>
+        <file>../qml/components/SideBarComponent.qml</file>
+        <file>../qml/components/ToolBarComponent.qml</file>
+        <file>../qml/components/NavBar.qml</file>
+        <file>../qml/components/LayerTableView.qml</file>
+        <file>../qml/components/shared/SliderComponent.qml</file>
+        <file>../qml/components/shared/ComboBoxComponent.qml</file>
+        <file>../qml/components/shared/RoundButtonComponent.qml</file>
+        <file>../qml/components/shared/GeometryButtonComponent.qml</file>
+        <file>../qml/components/shared/NumericInputComponent.qml</file>
+
+        <file>../qml/components/shared/NotificationBanner.qml</file>
+
+        <file>../qml/components/dialogs/ScanParamsDialog.qml</file>
+        <file>../qml/components/dialogs/AdvancedParamsDialog.qml</file>
+        <file>../qml/components/dialogs/MaterialDialog.qml</file>
+
+        <file>../qml/components/EventBus.qml</file>
+
+        <file>models/Material.cpp</file>
+        <file>models/Material.h</file>
+
+        <file>services/MaterialService.cpp</file>
+        <file>services/MaterialService.h</file>
+
+        <file>services/LaserParamService.cpp</file>
+        <file>services/LaserParamService.h</file>
+
+        <file>models/LaserParam.h</file>
+        <file>models/LaserParam.cpp</file>
+
+        <file>controllers/LaserParamController.cpp</file>
+        <file>controllers/LaserParamController.h</file>
+        <file>database/DBConnection.h</file>
+        <file>database/DBConnection.cpp</file>
+    </qresource>
+</RCC>
